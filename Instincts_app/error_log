@@ -1,0 +1,77 @@
+[26-Feb-2016 19:29:42 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'networkg_ng'@'localhost' to database 'networkg_instincts' in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/db_connect1.php on line 3
+[26-Feb-2016 19:29:42 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/insert_admins.php on line 33
+[26-Feb-2016 19:29:42 Etc/GMT] PHP Warning:  mysqli_affected_rows() expects parameter 1 to be mysqli, boolean given in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/insert_admins.php on line 35
+[26-Feb-2016 19:29:42 Etc/GMT] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/insert_admins.php on line 59
+[26-Feb-2016 19:30:03 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'networkg_ng'@'localhost' to database 'networkg_instincts' in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/db_connect1.php on line 3
+[26-Feb-2016 19:30:03 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/insert_admins.php on line 33
+[26-Feb-2016 19:30:03 Etc/GMT] PHP Warning:  mysqli_affected_rows() expects parameter 1 to be mysqli, boolean given in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/insert_admins.php on line 35
+[26-Feb-2016 19:30:03 Etc/GMT] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/insert_admins.php on line 59
+[26-Feb-2016 19:30:13 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'networkg_ng'@'localhost' to database 'networkg_instincts' in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/db_connect1.php on line 3
+[26-Feb-2016 19:30:13 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/insert_admins.php on line 33
+[26-Feb-2016 19:30:13 Etc/GMT] PHP Warning:  mysqli_affected_rows() expects parameter 1 to be mysqli, boolean given in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/insert_admins.php on line 35
+[26-Feb-2016 19:30:13 Etc/GMT] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/insert_admins.php on line 59
+[26-Feb-2016 19:30:36 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'networkg_ng'@'localhost' to database 'networkg_instincts' in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/db_connect1.php on line 3
+[26-Feb-2016 19:30:36 Etc/GMT] PHP Notice:  Undefined index: username in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/admin.php on line 145
+[05-Mar-2016 06:52:19 Etc/GMT] PHP Notice:  Undefined index: username in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/admin.php on line 145
+[05-Mar-2016 16:11:36 Etc/GMT] PHP Notice:  Undefined index: username in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/admin.php on line 145
+[05-Mar-2016 16:12:29 Etc/GMT] PHP Notice:  Undefined index: username in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/admin.php on line 145
+[05-Mar-2016 16:12:54 Etc/GMT] PHP Notice:  Undefined index: username in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/admin.php on line 145
+[05-Mar-2016 18:27:21 Etc/GMT] PHP Notice:  Undefined index: user in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/insert_admins.php on line 26
+[05-Mar-2016 18:27:21 Etc/GMT] PHP Notice:  Undefined index: pass in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/insert_admins.php on line 27
+[06-Mar-2016 06:16:36 Etc/GMT] PHP Notice:  Undefined index: username in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/admin.php on line 145
+[06-Mar-2016 06:17:21 Etc/GMT] PHP Notice:  Undefined index: username in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/admin.php on line 145
+[06-Mar-2016 06:20:46 Etc/GMT] PHP Notice:  Undefined index: username in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/admin.php on line 145
+[06-Mar-2016 09:08:53 Etc/GMT] PHP Notice:  Undefined index: username in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/admin.php on line 145
+[06-Mar-2016 09:08:57 Etc/GMT] PHP Notice:  Undefined index: username in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/admin.php on line 145
+[06-Mar-2016 09:09:00 Etc/GMT] PHP Notice:  Undefined index: username in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/admin.php on line 145
+[06-Mar-2016 13:58:07 Etc/GMT] PHP Notice:  Undefined index: username in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/admin.php on line 145
+[06-Mar-2016 14:19:39 Etc/GMT] PHP Notice:  Undefined index: user in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/insert_admins.php on line 26
+[06-Mar-2016 14:19:39 Etc/GMT] PHP Notice:  Undefined index: pass in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/insert_admins.php on line 27
+[06-Mar-2016 15:03:06 Etc/GMT] PHP Notice:  Undefined index: user in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/insert_admins.php on line 26
+[06-Mar-2016 15:03:06 Etc/GMT] PHP Notice:  Undefined index: pass in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/insert_admins.php on line 27
+[06-Mar-2016 15:04:56 Etc/GMT] PHP Notice:  Undefined index: user in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/insert_admins.php on line 26
+[06-Mar-2016 15:04:56 Etc/GMT] PHP Notice:  Undefined index: pass in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/insert_admins.php on line 27
+[06-Mar-2016 15:36:47 Etc/GMT] PHP Notice:  Undefined index: username in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/admin.php on line 145
+[06-Mar-2016 15:54:10 Etc/GMT] PHP Notice:  Undefined index: username in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/admin.php on line 145
+[06-Mar-2016 17:04:08 Etc/GMT] PHP Notice:  Undefined index: username in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/admin.php on line 145
+[06-Mar-2016 17:49:31 Etc/GMT] PHP Notice:  Undefined index: username in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/admin.php on line 145
+[06-Mar-2016 17:53:36 Etc/GMT] PHP Notice:  Undefined index: username in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/admin.php on line 145
+[06-Mar-2016 18:24:11 Etc/GMT] PHP Notice:  Undefined index: username in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/admin.php on line 145
+[06-Mar-2016 18:37:02 Etc/GMT] PHP Notice:  Undefined index: username in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/admin.php on line 145
+[06-Mar-2016 18:40:25 Etc/GMT] PHP Notice:  Undefined index: username in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/admin.php on line 145
+[06-Mar-2016 18:53:46 Etc/GMT] PHP Notice:  Undefined index: username in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/admin.php on line 145
+[06-Mar-2016 19:20:45 Etc/GMT] PHP Notice:  Undefined index: username in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/admin.php on line 145
+[06-Mar-2016 19:20:50 Etc/GMT] PHP Notice:  Undefined index: username in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/admin.php on line 145
+[07-Mar-2016 00:43:22 Etc/GMT] PHP Notice:  Undefined index: username in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/admin.php on line 145
+[07-Mar-2016 14:07:31 Etc/GMT] PHP Notice:  Undefined index: user in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/insert_admins.php on line 26
+[07-Mar-2016 14:07:31 Etc/GMT] PHP Notice:  Undefined index: pass in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/insert_admins.php on line 27
+[07-Mar-2016 16:31:44 Etc/GMT] PHP Notice:  Undefined index: username in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/admin.php on line 145
+[07-Mar-2016 19:13:30 Etc/GMT] PHP Notice:  Undefined index: username in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/admin.php on line 145
+[07-Mar-2016 19:13:32 Etc/GMT] PHP Notice:  Undefined index: username in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/admin.php on line 145
+[08-Mar-2016 14:11:50 Etc/GMT] PHP Notice:  Undefined index: username in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/admin.php on line 145
+[08-Mar-2016 14:11:53 Etc/GMT] PHP Notice:  Undefined index: username in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/admin.php on line 145
+[08-Mar-2016 15:22:19 Etc/GMT] PHP Notice:  Undefined index: user in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/insert_admins.php on line 26
+[08-Mar-2016 15:22:19 Etc/GMT] PHP Notice:  Undefined index: pass in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/insert_admins.php on line 27
+[08-Mar-2016 15:22:22 Etc/GMT] PHP Notice:  Undefined index: user in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/insert_admins.php on line 26
+[08-Mar-2016 15:22:22 Etc/GMT] PHP Notice:  Undefined index: pass in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/insert_admins.php on line 27
+[08-Mar-2016 16:23:32 Etc/GMT] PHP Notice:  Undefined index: username in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/admin.php on line 145
+[08-Mar-2016 16:23:34 Etc/GMT] PHP Notice:  Undefined index: username in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/admin.php on line 145
+[09-Mar-2016 03:28:43 Etc/GMT] PHP Notice:  Undefined index: username in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/admin.php on line 145
+[09-Mar-2016 07:41:54 Etc/GMT] PHP Notice:  Undefined index: user in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/insert_admins.php on line 26
+[09-Mar-2016 07:41:54 Etc/GMT] PHP Notice:  Undefined index: pass in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/insert_admins.php on line 27
+[09-Mar-2016 12:27:45 Etc/GMT] PHP Notice:  Undefined index: user in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/insert_admins.php on line 26
+[09-Mar-2016 12:27:45 Etc/GMT] PHP Notice:  Undefined index: pass in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/insert_admins.php on line 27
+[09-Mar-2016 12:27:48 Etc/GMT] PHP Notice:  Undefined index: user in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/insert_admins.php on line 26
+[09-Mar-2016 12:27:48 Etc/GMT] PHP Notice:  Undefined index: pass in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/insert_admins.php on line 27
+[10-Mar-2016 09:09:31 Etc/GMT] PHP Notice:  Undefined index: username in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/admin.php on line 145
+[10-Mar-2016 09:10:15 Etc/GMT] PHP Notice:  Undefined index: username in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/admin.php on line 145
+[10-Mar-2016 09:10:20 Etc/GMT] PHP Notice:  Undefined index: username in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/admin.php on line 145
+[10-Mar-2016 09:11:12 Etc/GMT] PHP Notice:  Undefined index: username in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/admin.php on line 145
+[10-Mar-2016 17:28:32 Etc/GMT] PHP Notice:  Undefined index: username in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/admin.php on line 145
+[10-Mar-2016 17:28:34 Etc/GMT] PHP Notice:  Undefined index: username in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/admin.php on line 145
+[10-Mar-2016 17:28:40 Etc/GMT] PHP Notice:  Undefined index: username in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/admin.php on line 145
+[10-Mar-2016 17:28:41 Etc/GMT] PHP Notice:  Undefined index: username in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/admin.php on line 145
+[12-Mar-2016 14:08:17 Etc/GMT] PHP Notice:  Undefined index: username in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/admin.php on line 145
+[13-Mar-2016 05:24:02 Etc/GMT] PHP Notice:  Undefined index: username in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/admin.php on line 145
+[23-Mar-2016 04:38:41 Etc/GMT] PHP Notice:  Undefined index: username in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/admin.php on line 145
+[15-Apr-2016 06:57:22 Etc/GMT] PHP Notice:  Undefined index: username in /home/networkg/public_html/ssninstincts.org.in/Instincts_app/admin.php on line 145

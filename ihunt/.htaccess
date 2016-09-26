@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^trespass\.ssnparadigm\.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.trespass\.ssnparadigm\.org$
+RewriteRule ^/?$ "http\:\/\/www\.ssnparadigm\.org" [R=301,L]
+

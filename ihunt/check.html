@@ -1,0 +1,51 @@
+<html>
+<head>
+<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen"></link>
+</head>
+<body>
+<div id="regform">
+		<form method="post" action="register.php">
+		 <div class="control-group">
+		  <label class="control-label" for="pkey">P-Key</label>
+		  <div class="controls">
+		   <div class="input-prepend">
+			<span class="add-on"><i class="icon-user"></i></span>
+			<input type="text"  id="pkey" name="key" placeholder="Parabot" required /> 
+		   </div>
+		  </div>
+	     </div>
+		 
+		 <div class="control-group">
+		  <label class="control-label" for="passwd">Password</label>
+		    <div class="controls">
+		      <div class="input-prepend">
+		       <span class="add-on"><i class="icon-chevron-right"></i></span>
+		       <input type="Password" id="passwd" name="password" placeholder="Your-Password" required /> 
+		      </div>
+		    </div>
+	    </div>
+		
+		<div class="control-group">
+		  <label class="control-label" for="passwd">Confirm Password</label>
+		    <div class="controls">
+		      <div class="input-prepend">
+		       <span class="add-on"><i class="icon-chevron-right"></i></span>
+		       <input type="Password" id="passwd" name="cpassword" placeholder="Your-Password" required /> 
+		      </div>
+		    </div>
+	    </div>
+		
+		<center><input type="submit" value="Register"/></center><br/><br/>
+		<font color="red">
+		<?php 
+		if(isset($_SESSION["error"]))
+		{
+			echo $_SESSION["error"];
+			unset($_SESSION["error"]);
+		} 
+		?></font>
+		<br/>
+		*Get Paradigm Key by registering at <a href="http://www.ssnparadigm.org"> <span class="yellow">www.ssnparadigm.org</span></a>
+		</form>
+	</body>
+</html>

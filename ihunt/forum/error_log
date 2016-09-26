@@ -1,0 +1,1 @@
+[21-Aug-2013 06:49:44] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/foneappz/public_html/trespass/forum/addpost.php:31) in /home/foneappz/public_html/trespass/forum/addpost.php on line 56
